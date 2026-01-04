@@ -1,8 +1,8 @@
-# Hi 👋, I'm Tejas Pawar
+# Hi 👋, I'm Tejas
 
 ### Full-Stack Developer focused on high-performance web applications. Expert in TypeScript, React, and NestJS, with a passion for building robust, enterprise-ready architectures from the ground up.
 
-![Profile Views](https://komarev.com/ghpvc/?username=tejaspawar2026&color=blue)
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1Qg8L9vZw2OIzOZhZLsLG-ntuZuY9IM9l/view?usp=sharing](https://drive.google.com/file/d/1Qg8L9vZw2OIzOZhZLsLG-ntuZuY9IM9l/view?usp=sharing)**
 
 - 🔭 I'm currently working on **An enterprise-grade photo hosting platform built with TypeScript. It utilizes NestJS for robust metadata management and React for a seamless, lightning-fast browsing experience.**
 
@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on **[https://medium.com/@tejaspawar2026](https://medium.com/@tejaspawar2026)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Qg8L9vZw2OIzOZhZLsLG-ntuZuY9IM9l/view?usp=sharing](https://drive.google.com/file/d/1Qg8L9vZw2OIzOZhZLsLG-ntuZuY9IM9l/view?usp=sharing)**
+![Profile Views](https://komarev.com/ghpvc/?username=tejaspawar2026&color=blue)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
