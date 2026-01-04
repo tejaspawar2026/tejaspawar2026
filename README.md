@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer focused on high-performance web applications. Expert in TypeScript, React, and NestJS, with a passion for building robust, enterprise-ready architectures from the ground up.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaspawar2026&label=Profile views&color=0e75b6&style=flat" alt="tejaspawar2026" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=tejaspawar2026&color=blue)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaspawar2026" alt="tejaspawar2026" /></a> </p>
 
