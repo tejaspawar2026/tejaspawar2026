@@ -1,35 +1,46 @@
-# Hi there, I'm Tejas 👋
-### Full Stack Developer
+# Hi 👋, I'm Tejas Pawar
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning ****
-- 💬 Ask me about **[Topics you know well]**
-- 📫 How to reach me **tejaspawar2026@gmail.com/https://www.linkedin.com/in/tejas-pawar-753b17251/**
+### Full-Stack Developer focused on high-performance web applications. Expert in TypeScript, React, and NestJS, with a passion for building robust, enterprise-ready architectures from the ground up.
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaspawar2026&label=Profile views&color=0e75b6&style=flat" alt="tejaspawar2026" /> </p>
 
-### 🛠 Tech Stack
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaspawar2026" alt="tejaspawar2026" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://x.com/iamtejas_28" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/iamtejas_28?logo=twitter&style=for-the-badge" alt="https://x.com/iamtejas_28" /></a> </p>
+
+- 🔭 I'm currently working on **An enterprise-grade photo hosting platform built with TypeScript. It utilizes NestJS for robust metadata management and React for a seamless, lightning-fast browsing experience.**
+
+- 🌱 I'm currently learning **I am currently learning NestJS and GraphQL to build more efficient APIs, while exploring AWS to implement scalable cloud storage solutions for my projects.**
+
+- 👯 I'm looking to collaborate on **I am currently looking to contribute to open-source projects, particularly those involving NestJS, GraphQL, or React, to collaborate on building high-quality, community-driven software.**
+
+- 🤝 I'm looking for help with **I am currently looking for guidance and collaboration on System Design to better understand how to architect high-availability, distributed systems using NestJS and AWS.**
+
+- 💬 Ask me about **Building modular backends with NestJS, state management in React, or the transition from REST to GraphQL.**
+
+- ⚡ Fun fact **I’ve realized that 90% of my hardest bugs aren't solved at the keyboard, but while I'm away making a second cup of coffee.**
+
+- 👨‍💻 All of my projects are available at **[https://tejaspawar2026.github.io/Portfolio/](https://tejaspawar2026.github.io/Portfolio/)**
+
+- 📝 I regularly write articles on **[https://medium.com/@tejaspawar2026](https://medium.com/@tejaspawar2026)**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1Qg8L9vZw2OIzOZhZLsLG-ntuZuY9IM9l/view?usp=sharing](https://drive.google.com/file/d/1Qg8L9vZw2OIzOZhZLsLG-ntuZuY9IM9l/view?usp=sharing)**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,mongodb,git,aws" />
+<a href="https://github.com/tejaspawar2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tejaspawar2026" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-pawar-753b17251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-pawar-753b17251/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/iamtejas_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamtejas_28/" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/iamtejas_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/iamtejas_28" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@tejaspawar2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@tejaspawar2026" height="30" width="40" /></a>
+<a href="https://leetcode.com/https://leetcode.com/u/tejaspawar2026/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tejaspawar2026/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tejaspawar2026&show_icons=true&theme=radical" alt="Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspawar2026&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
-</p>
-![Views](https://komarev.com/ghpvc/?username=tejaspawar2026&color=red&style=flat-square)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaspawar2026&show_icons=true&locale=en&layout=compact" alt="tejaspawar2026" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaspawar2026&show_icons=true&locale=en" alt="tejaspawar2026" /></p>
 
-### 🚀 Featured Projects
-- **[Project Title](Link to Repo)** - A brief 1-sentence description of the value it provides.
-- **[Project Title](Link to Repo)** - Mention a key technology used (e.g., "Built with Next.js and Tailwind").
-
----
-
-### 🤝 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](Your-LinkedIn-URL)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />](Your-Twitter-URL)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaspawar2026&" alt="tejaspawar2026" /></p>
