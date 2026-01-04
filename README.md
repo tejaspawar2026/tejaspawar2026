@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name] 👋
-### [Your Role: e.g., Full Stack Developer / Data Scientist / Student]
+# Hi there, I'm Tejas 👋
+### Full Stack Developer
 
 - 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Framework]**
+- 🌱 I’m currently learning ****
 - 💬 Ask me about **[Topics you know well]**
-- 📫 How to reach me **[tejaspawar2026@gmail.com/(https://www.linkedin.com/in/tejas-pawar-753b17251/)]**
+- 📫 How to reach me **tejaspawar2026@gmail.com/https://www.linkedin.com/in/tejas-pawar-753b17251/**
 
 ---
 
@@ -17,9 +17,10 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" alt="Stats" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tejaspawar2026&show_icons=true&theme=radical" alt="Stats" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspawar2026&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
 </p>
+![Views](https://komarev.com/ghpvc/?username=tejaspawar2026&color=red&style=flat-square)
 
 ---
 
