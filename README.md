@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer focused on high-performance web applications. Expert in TypeScript, React, and NestJS, with a passion for building robust, enterprise-ready architectures from the ground up.
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1Qg8L9vZw2OIzOZhZLsLG-ntuZuY9IM9l/view?usp=sharing](https://drive.google.com/file/d/1Qg8L9vZw2OIzOZhZLsLG-ntuZuY9IM9l/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1Qg8L9vZw2OIzOZhZLsLG-ntuZuY9IM9l/view?usp=sharing)**
 
 - 🔭 I'm currently working on **An enterprise-grade photo hosting platform built with TypeScript. It utilizes NestJS for robust metadata management and React for a seamless, lightning-fast browsing experience.**
 
