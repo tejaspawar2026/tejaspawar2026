@@ -4,8 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tejaspawar2026&color=blue)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaspawar2026" alt="tejaspawar2026" /></a> </p>
-
 - 🔭 I'm currently working on **An enterprise-grade photo hosting platform built with TypeScript. It utilizes NestJS for robust metadata management and React for a seamless, lightning-fast browsing experience.**
 
 - 🌱 I'm currently learning **I am currently learning NestJS and GraphQL to build more efficient APIs, while exploring AWS to implement scalable cloud storage solutions for my projects.**
